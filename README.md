@@ -1,14 +1,14 @@
 # Task3
 SQL for Data Analysis (Using MySQL sys Schema)
 
-## 🎯 Objective
+##  Objective
 Perform SQL-based performance analysis using the built-in `sys` schema in MySQL.
 
-## 📦 Dataset
+##  Dataset
 - MySQL internal: `sys` schema
 - Used for performance insights (no external CSV/database required)
 
-## 📋 What I Did
+##  What I Did
 
 ### 1. SELECT, WHERE, ORDER
 - Queried top statements by execution count
@@ -28,5 +28,5 @@ Perform SQL-based performance analysis using the built-in `sys` schema in MySQL.
 ### 6. Optimization
 - Not applicable (read-only schema), but analyzed slow queries
 
-## 🖼️ Screenshots
+##  Screenshots
 Located in `screenshots/` folder.
